@@ -17,3 +17,6 @@ $ python3 app.py
 ```
 
 ### 4. Now check http://localhost:5000
+
+## Database ERD
+![C$50 Finance ERD](static/finance-erd.png)
